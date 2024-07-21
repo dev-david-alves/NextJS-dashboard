@@ -1,0 +1,9 @@
+{
+  "linterOptions": {
+    "reportUnusedDisableDirectives": true
+  },
+  "rules": {
+    "semi": ["error", "always"]
+  },
+  "extensions": {}
+}
